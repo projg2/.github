@@ -6,8 +6,8 @@ GitHub makes it trivial to create and maintain new projects.  However,
 the standard username-oriented workflow implies a bus factor of one.
 While Git makes it easy to fork projects and patch them elsewhere,
 establishing a single new upstream is non-trivial.  The purpose
-of **project g²** is to move open source projects created by @mgorny
-(and hopefully more @Gentoo developers in the near future) to a single
+of **project g²** is to move open source projects created by [@mgorny](https://github.com/mgorny/)
+(and hopefully more [@Gentoo](https://github.com/gentoo/) developers in the near future) to a single
 shared organization where they could be maintained with a higher bus
 factor.
 

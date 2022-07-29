@@ -1,6 +1,6 @@
 # Project g²
 
-![Little Ruh and Mr. Gray (cats) working together on g²](g2.jpeg)
+![Little Ruh and Mr. Gray (cats) working together on g²](https://raw.githubusercontent.com/projg2/.github/master/profile/g2.jpeg)
 
 GitHub makes it trivial to create and maintain new projects.  However,
 the standard username-oriented workflow implies a bus factor of one.

@@ -18,3 +18,9 @@ factor.
    privileges and respect the original maintainers of the projects.
 2. Source repositories only.  Please don't fork repositories into
    the organization just to create a pull request.
+
+## More cats
+
+Behind every programmercat, there is a netadmincat:
+
+![Blackie protecting the router](https://raw.githubusercontent.com/projg2/.github/master/profile/netadmincat.jpeg)

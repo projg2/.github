@@ -24,3 +24,6 @@ factor.
 Behind every programmercat, there is a netadmincat:
 
 ![Blackie protecting the router](https://raw.githubusercontent.com/projg2/.github/master/profile/netadmincat.jpeg)
+
+Dual monitor? Nah. Dual keyboard.
+![Licia working twice as hard hard](https://raw.githubusercontent.com/projg2/.github/master/profile/keyboardcat.jpg)
